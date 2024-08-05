@@ -17,13 +17,13 @@ div.para {
   margin-left: 20px;
 }
 
-.topnav {
+div.topnav {
     background-color: #12244f;
     overflow: hidden;
   }
   
   /* Style the links inside the navigation bar */
-  .topnav a {
+  div.topnav a {
     float: left;
     color: #f2f2f2;
     text-align: center;
@@ -33,13 +33,13 @@ div.para {
   }
   
   /* Change the color of links on hover */
-  .topnav a:hover {
+  div.topnav a:hover {
     background-color: #bacfff;
     color: black;
   }
   
   /* Add a color to the active/current link */
-  .topnav a.active {
+  div.topnav a.active {
     background-color: #5579cd;
     color: rgb(255, 255, 255);
   }
