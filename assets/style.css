@@ -1,14 +1,5 @@
-body {
-    background-color: rgb(218, 246, 255);
-}
-  
-h1 {
-    color: #12244f;
-    margin-left: 0px;
-}
-
 div.topnav {
-    background-color: #12244f;
+    background-color: #352714;
     overflow: hidden;
 }
 
@@ -24,13 +15,13 @@ div.topnav a {
 
 /* Change the color of links on hover */
 div.topnav a:hover {
-  background-color: #bacfff;
+  background-color: #e6d6c1;
   color: black;
   border-bottom: 0px;
 }
 
 /* Add a color to the active/current link */
 div.topnav a.active {
-  background-color: #5579cd;
+  background-color: #967150;
   color: rgb(255, 255, 255);
 }
