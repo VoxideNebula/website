@@ -2,7 +2,7 @@
 site_name: benjaminbushnell
 repo_name: website
 repo_url: https://github.com/VoxideNebula/website
-site_dir: ./
+site_dir: public
 site_url: https://benjaminbushnell.com
 docs_dir: docs
 theme:
