@@ -1,14 +1,14 @@
 ---
-site_name: Bendocs
-repo_name: bendocs
-repo_url: https://code.chs.usgs.gov/bbushnell/bendocs
-site_dir: public
-site_url: https://bbushnell.code-pages.chs.usgs.gov/bendocs
+site_name: benjaminbushnell
+repo_name: website
+repo_url: https://github.com/VoxideNebula/website
+# site_dir: docs
+site_url: https://benjaminbushnell.com
 docs_dir: docs
 theme:
   name: material
-  logo: images/CHS_Signature.png
-  favicon: images/CHS_Signature.png
+  logo: img/ben_photo.jpeg
+  favicon: img/favicon.ico
   icon:
     repo: fontawesome/brands/gitlab
     annotation: material/plus-circle
