@@ -79,5 +79,3 @@ extra:
     dir: docs/blog
     author: Benjamin Bushnell
     author_image: https://code.chs.usgs.gov/uploads/-/system/user/avatar/1295/avatar.png
-hooks:
-  - remove_toc_hook.py
