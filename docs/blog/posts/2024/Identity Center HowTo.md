@@ -1,6 +1,5 @@
 ---
 date:
-  created: 2024-12-29
   # updated:
 authors:
   - ben
