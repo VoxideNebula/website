@@ -82,6 +82,8 @@ extra:
       link: https://books.benjaminbushnell.com
     - icon: simple/youtube
       link: https://www.youtube.com/@benjaminbushnell
+    - icon: simple/github
+      link: https://github.com/VoxideNebula
   generator: false
   blog:
     dir: docs/blog
