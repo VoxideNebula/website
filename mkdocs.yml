@@ -1,5 +1,5 @@
 ---
-site_name: benjaminbushnell
+site_name: Benjamin Bushnell
 repo_name: website
 repo_url: https://github.com/VoxideNebula/website
 # site_dir: public
@@ -10,12 +10,10 @@ theme:
   logo: img/ben_photo.jpeg
   favicon: img/favicon.ico
   icon:
-    repo: fontawesome/brands/gitlab
     annotation: material/plus-circle
   features:
     - content.code.copy
     - content.code.select
-    - content.action.edit
     - header.autohide
     - navigation.tabs
     - navigation.footer
@@ -74,8 +72,17 @@ plugins:
   - mermaid2
   - blog
 extra:
+  social:
+    - icon: simple/soundcloud
+      link: https://soundcloud.com/voxide
+    - icon: simple/spotify
+      link: https://open.spotify.com/artist/7D0S25Hwms2iiy65lpAOJW
+    - icon: simple/applemusic
+      link: https://music.apple.com/us/artist/voxide/920215932
+    - icon: fontawesome/solid/book
+      link: books.benjaminbushnell.comA
+    - icon: simple/youtube
+      link: https://www.youtube.com/@benjaminbushnell
   generator: false
   blog:
     dir: docs/blog
-    author: Benjamin Bushnell
-    author_image: https://code.chs.usgs.gov/uploads/-/system/user/avatar/1295/avatar.png
