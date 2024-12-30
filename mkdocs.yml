@@ -70,7 +70,6 @@ plugins:
       lang: en
   - mermaid2
   - blog
-  - optimize
 extra:
   social:
     - icon: simple/soundcloud
