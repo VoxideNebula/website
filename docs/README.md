@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
-![Benjamin Bushnell](img/ben_photo.jpeg){ align=left style="height:1000px;width:750px"}
+![Benjamin Bushnell](img/ben_photo.jpeg){ align=left style="width:750px"}
 
 ## Welcome to my website
 
