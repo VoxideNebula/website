@@ -20,5 +20,6 @@ Please take a look around and read up on the topics you find interesting. If you
 - [:simple-applemusic: Apple Music](https://music.apple.com/us/artist/voxide/920215932){ .md-button }
 - [:books: Books I have written](https://books.benjaminbushnell.com){ .md-button }
 - [:simple-youtube: YouTube Channel](https://www.youtube.com/@benjaminbushnell){ .md-button }
+- [:simple-github: GitHub](https://github.com/VoxideNebula){ .md-button }
 
 </div>
