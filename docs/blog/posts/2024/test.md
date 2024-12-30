@@ -6,6 +6,7 @@ authors:
   - ben
 categories:
   - test
+comments: true
 ---
 
 # Test Post
